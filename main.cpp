@@ -1,4 +1,4 @@
-#include <stdio.h>aaa
+#include <stdio.h>
 
 
 void main(void)
